@@ -3,7 +3,7 @@ import ExpertlyLogoLogin from "../../../Assets/logo/ExpertlyLogoLogin.png";
 import { Link } from "react-router-dom";
 function Footer() {
   return (
-    <section className="py-10 bg-gradient-to-r from-blue-200 to-green-200 sm:pt-16 lg:pt-24">
+    <section className="py-10 bg-gradient-to-r from-red-200 to-yelllow-200 sm:pt-16 lg:pt-24">
       <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div className="grid grid-cols-2 md:col-span-3 lg:grid-cols-6 gap-y-16 gap-x-12">
           <div className="col-span-2 md:col-span-3 lg:col-span-2 lg:pr-8">
@@ -214,7 +214,7 @@ function Footer() {
         <hr className="mt-6 mb-5 border-gray-200" />
 
         <p className="text-sm text-center text-gray-600">
-          © Copyright 2024, All Rights Reserved by Theprofess
+          © Copyright 2024, All Rights Reserved by Skillvybe
         </p>
       </div>
     </section>

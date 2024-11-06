@@ -63,7 +63,7 @@ function Signup() {
         headers: {
           "Content-Type": "application/json",
         },
-        body: JSON.stringify({ ...signupState, siteId: 4 }),
+        body: JSON.stringify({ ...signupState, siteId: 12 }),
       });
       const data = await response.json();
       // console.log(data);

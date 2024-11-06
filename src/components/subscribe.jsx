@@ -97,7 +97,7 @@ function Subscribe() {
                     />
                   </div>
                   <label htmlFor="remember" className="ms-2 text-sm  ">
-                    I agree to receive information about theprofess.com training
+                    I agree to receive information about skillvybe.com training
                   </label>
                 </div>
               </div>

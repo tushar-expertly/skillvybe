@@ -111,7 +111,7 @@ function Aboutus() {
                 <div>
                   <h4 className=" text-gray-800">Who We Are</h4>
                   <p className="mt-2 text-gray-600">
-                    Theprofess has quickly become a trusted leader in online
+                    Skillvybe has quickly become a trusted leader in online
                     education. With a team of dedicated professionals and
                     experts in various fields, we are committed to delivering
                     innovative, engaging, and effective learning experiences

@@ -38,7 +38,7 @@ function ForgotPassword() {
           },
           body: JSON.stringify({
             email: forgotPasswordFieldsState.email,
-            siteId: 4,
+            siteId: 12,
           }),
         }
       );

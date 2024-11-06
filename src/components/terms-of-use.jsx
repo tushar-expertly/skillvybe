@@ -10,7 +10,7 @@ function TermsOfUse() {
           <p className="font-semibold mb-2">Legal</p>
           <p className="font-semibold mb-2">Copyright Issues</p>
           <p className="mb-4">
-            Documents and information on the Theprofess website may be protected
+            Documents and information on the Skillvybe website may be protected
             by U.S. and international copyright laws. Any reproduction or
             transmission beyond fair use requires written consent from the
             copyright holders.
@@ -18,23 +18,23 @@ function TermsOfUse() {
           <p className="font-semibold mb-2">Disclaimers</p>
           <p className="mb-4">
             This website provides information for the convenience of visitors.
-            Theprofess endeavors to ensure accuracy, but does not guarantee the
-            reliability or authenticity of third-party information. Theprofess
+            Skillvybe endeavors to ensure accuracy, but does not guarantee the
+            reliability or authenticity of third-party information. Skillvybe
             is not liable for any actions taken based on the information on this
             site or for any resulting consequences.
           </p>
           <p className="mb-4">External Links</p>
           <p className="mb-4">
-            The Theprofess web portal may include links to external sites
+            The Skillvybe web portal may include links to external sites
             maintained by other entities. These links are intended to provide
             relevant information to visitors. The inclusion of a link does not
-            imply endorsement by Theprofess. Links may be removed or updated at
+            imply endorsement by Skillvybe. Links may be removed or updated at
             any time without notice.
           </p>
           <p className="font-semibold mb-2">External Links</p>
           <p className="mb-4">
             If issues arise with linked external sites, please contact the
-            respective organizations. Theprofess is not responsible for the
+            respective organizations. Skillvybe is not responsible for the
             content or functionality of external websites.
           </p>
           {/* <p className="mb-4">

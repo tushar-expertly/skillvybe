@@ -29,17 +29,17 @@ function Home() {
   return (
     <Layout>
       {" "}
-      <div className=" md:w-[89%] mx-auto px-4 py-12 md:py-16 bg-gradient-to-r from-green-100 via-blue-200 to-purple-300 mt-2">
+      <div className=" md:w-[89%] mx-auto px-4 py-12 md:py-16 bg-gradient-to-r from-red-100 via-yellow-200 to-purple-300 mt-2">
         {/* <GradientHeading title="About Us" size="text-6xl" /> */}
         <div
           className={` bg-sky  dark:bg-customlight  p-2 flex items-center justify-between flex-col-reverse gap-0 lg:gap-10	lg:flex-row  rounded-xl hover:-translate-y-1 hover:scale-110 duration-300 transition ease-in-out delay-150 `}
         >
           <div className="p-4 w-full text-center lg:text-start">
             <h2 className="text-4xl lg:text-5xl font-medium ">
-              Welcome To Theprofess
+              Welcome To Skillvybe
             </h2>
             <p className="text-gray-500 font-medium mt-4 md:mt-8 text-sm md:text-base leading-6">
-              At Theprofess, we are committed to the transformative impact of
+              At Skillvybe, we are committed to the transformative impact of
               education. Our goal is to empower people and organizations
               globally with top-notch online training programs that unlock
               potential and foster success.
@@ -68,7 +68,7 @@ function Home() {
           </div>
         </div>
       </div>
-      <section className="py-12 bg-gray-50">
+      <section className="py-12 bg-red-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="mt-10">
             <dl className="space-y-12 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-12 md:gap-y-12">

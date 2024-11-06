@@ -40,7 +40,7 @@ function Cart() {
             "Content-Type": "application/json",
             Authorization: `Bearer ${token}`,
           },
-          body: JSON.stringify({ cartItems, code: promoCode, siteId: 4 }),
+          body: JSON.stringify({ cartItems, code: promoCode, siteId: 12 }),
         }
       );
 
@@ -82,7 +82,7 @@ function Cart() {
       const body = {
         cartItems,
         couponCode: promoCode ? promoCode : "",
-        siteId: 4,
+        siteId: 12,
       };
 
       const headers = {
